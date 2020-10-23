@@ -12,4 +12,4 @@ What useful investigation could be done with the final database: The database co
                                                                  versus separate rating systems.
 
 Final database: Will be relational, since rating a restaurant includes several attributes: price, quality of food,
-	              cleanliness, and ambience. These attributes are subjective and unique to personal taste and expectations.
+	        cleanliness, and ambience. These attributes are subjective and unique to personal taste and expectations.
