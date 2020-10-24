@@ -1,10 +1,9 @@
 ...
 ##A Web application that shows Google Maps around restaurants, using Flask and Google Maps API.
 
+from flask import Flask
 from flask import Flask, render_template, abort, jsonify
-from datetime import datetime
-import datetime as dt
-from dateutil.relativedelta import relativedelta
+
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
@@ -27,12 +26,12 @@ Base.prepare(engine, reflect=True)
 #Base.classes.keys()
 
 # Save reference to the tables
-Aggregate = Base.classes.aggregate
+google = Base.classes.google
 
 
 #################################################
 # Flask Setup
-app = flask(__name__)
+app = Flask(__name__)
 
 #################################################
 # Flask Routes
@@ -47,34 +46,33 @@ def welcome():
         f"/api/v1.0/restaurant_name<br/>"
     )
 
-@app.route("/api/v1.0/restaurant_name")
-def restaurant_name():
+@app.route("/api/v1.0/restaurants")
+def restaurants():
     # Create our session (link) from Python to the DB
     session = Session(engine)
 
-    """Return a list of precipitation amounts"""
-    # Query all precipitation amounts
-    #rainfall = session.query(Measurement.date, Measurement.prcp).filter(func.strftime("%y-%m-%d", Measurement.date == date).all()
-    restaurants = session.query(Aggregate.name).order_by(Aggregate.id.desc()).first()
-    restaurants_ratings = restaurants [0]
+    """Return a list of restaurants"""
+    # Query all restaurants within zip
+    
+    restaurants = session.query(google.id, google.restaurant_name, google.total_ratings).all()
+    
 
-    restaurants_ratings = restaurants_ratings.id()
-
-    # Perform a query to retrieve the data and precipitation scores.
-    restaurants_rating_session = session.query
-    (Aggregate.name, Aggregate.ratings).filter(Aggregate.name).all()
     session.close()
 
- # Create a dictionary from the row data and append to a list of dates and precipitation
+    # Perform a query to retrieve the data and restaurants.
     all_restaurants = []
-    for name, name in restaurants_rating_session:
-        if name != None:
-            name_dict = {}
-            name_dict[id] = name
-            all_restaurants.append(name_dict)
+    for restaurant, id, restaurant_name, total_ratings in restaurants:
+       restaurant_dict = {}
+       restaurant_dict["id"] = id
+       restaurant_dict["restaurant_name"] = restaurant_name
+       restaurant_dict["total_ratings"] = total_ratings
+       all_restaurants.append(restaurant_dict)
 
     return jsonify(all_restaurants)
 
+
+ 
+
     if __name__ == '__main__':
 
-    #app.run(debug=True)
+        app.run(debug=True)
