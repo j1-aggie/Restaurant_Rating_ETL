@@ -54,18 +54,19 @@ def restaurants():
     """Return a list of restaurants"""
     # Query all restaurants within zip
     
-    restaurants = session.query(google.id, google.restaurant_name, google.total_ratings).all()
+    restaurants = session.query(aggregate.id, aggregate.restaurant_name, aggregate.total_ratings, aggregate.yelp_total_ratings).all()
     
 
     session.close()
 
     # Perform a query to retrieve the data and restaurants.
     all_restaurants = []
-    for restaurant, id, restaurant_name, total_ratings in restaurants:
+    for restaurant, id, restaurant_name, total_ratings, yelp_total_ratings in restaurants:
        restaurant_dict = {}
        restaurant_dict["id"] = id
        restaurant_dict["restaurant_name"] = restaurant_name
        restaurant_dict["total_ratings"] = total_ratings
+       restaurant_name["yelp_total_ratings"] = yelp_total_ratings
        all_restaurants.append(restaurant_dict)
 
     return jsonify(all_restaurants)
