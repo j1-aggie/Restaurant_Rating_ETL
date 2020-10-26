@@ -13,3 +13,19 @@ What useful investigation could be done with the final database: The database co
 
 Final database: Will be relational, since rating a restaurant includes several attributes: price, quality of food,
 	        cleanliness, and ambience. These attributes are subjective and unique to personal taste and expectations.
+		
+		
+
+Final Report October 27, 2020        
+
+1.) We chose two different datasets: Yelp and Google Maps API. We chose these two to compare if sites were consistently supplying similar data to the public.
+2.) Each team member was assigned portions of the ETL Project once the proposal was drafted. Web Scraping was done by one team member, another performed 
+    the Google Maps API extraction, and another created a Flask application. Jupyter notebooks were created by each team member and upload to the team’s GitHub repository to
+    capture individual contributions to the project.  The data was transformed and load using Zoom meetings.
+3.) Transformation of the data was completed as group. The team reviewed data to clean-up any redundancies and to ensure that missing data would not stop the code 
+    from running successfully.
+4.) The type of final database selected best displayed the data and supported our narrative as to how restaurant ratings could be presented as an aggregate.  A Flask 
+    application created by the team allowed our database to be queried and return results in a JSON format.
+5.) The schema of the tables in the final database was created using pgAdmin4 and SQL to display the data as a relational data set.
+6.) We envision the database being used to rate restaurants in an aggregate manner and not by one customer’s rating.
+
