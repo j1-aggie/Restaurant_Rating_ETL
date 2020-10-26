@@ -1,60 +1,61 @@
 id,restaurant_name,street_address,city,state,zip_code,avg_rating,total_ratings,price_level,date,hour
-52,Grand Lux Cafe,5000 Westheimer Rd,Houston,TX,77056,4.2,2887,2,10/24/20,0900
-14,Maggiano's Little Italy,2019 Post Oak Blvd,Houston,TX,77056,4.5,2657,2,10/24/20,0900
-2,North Italia,1700 Post Oak Blvd Ste 190,Houston,TX,77056,4.6,2194,2,10/24/20,0900
-3,Caracol Restaurant,2200 Post Oak Blvd #160,Houston,TX,77056,4.6,2123,3,10/24/20,0900
-47,Kenny & Ziggy's New York Delicatessen,2327 Post Oak Blvd,Houston,TX,77056,4.6,1953,2,10/24/20,0900
-18,Yia Yia Mary's,4747 San Felipe St,Houston,TX,77056,4.5,1721,2,10/24/20,0900
-22,Bubba's Texas Burger Shack,5230 Westpark Dr,Houston,TX,77056,4.6,1697,1,10/24/20,0900
-7,Truluck's,5350 Westheimer Rd,Houston,TX,77056,4.6,1520,3,10/24/20,0900
-11,Moxie's,5000 Westheimer Rd,Houston,TX,77056,4.2,1386,2,10/24/20,0900
-57,Dimassi's Mediterranean Buffet,5160 Richmond Ave,Houston,TX,77056,4.4,1273,2,10/24/20,0900
-28,True Food Kitchen,1700 Post Oak Blvd #180,Houston,TX,77056,4.5,1203,2,10/24/20,0900
-29,Peli Peli South African Kitchen - Galleria,5085 Westheimer Rd B2515,Houston,TX,77056,4.5,1203,3,10/24/20,0900
-43,Del Frisco's Double Eagle Steakhouse,5061 Westheimer Rd Suite 8060,Houston,TX,77056,4.5,1077,4,10/24/20,0900
-46,McCormick & Schmick's Seafood & Steaks,1151 Uptown Park Blvd Suite 01,Houston,TX,77056,4.3,905,3,10/24/20,0900
-19,The Oceanaire Seafood Room,5061 Westheimer Rd,Houston,TX,77056,4.4,827,3,10/24/20,0900
-21,Roostar,5551 Richmond Ave,Houston,TX,77056,4.7,807,NA,,
-5,Adair Kitchen,5161 San Felipe St,Houston,TX,77056,4.3,781,2,10/24/20,0900
-51,Chick-fil-A,5015 Westheimer Rd Ste 1330,Houston,TX,77056,4.4,753,1,10/24/20,0900
-36,Argentina Cafe,3055 Sage Rd #130,Houston,TX,77056,4.4,717,2,10/24/20,0900
-13,Morton's The Steakhouse,5000 Westheimer Rd Suite 190,Houston,TX,77056,4.6,594,4,10/24/20,0900
-9,The Capital Grille,5365 Westheimer Rd,Houston,TX,77056,4.7,577,4,10/24/20,0900
-24,FIG & OLIVE Tasting Kitchen & Bar,5115 Westheimer Rd Suite C2500,Houston,TX,77056,4.3,550,3,10/24/20,0900
-48,The Tasting Room – Uptown Park,1121 Uptown Park Blvd,Houston,TX,77056,4.3,519,2,10/24/20,0900
-53,The Burger Palace,2800 Sage Rd #1100,Houston,TX,77056,4.2,506,2,10/24/20,0900
-6,Masraff's,1753 Post Oak Blvd,Houston,TX,77056,4.6,500,3,10/24/20,0900
-56,"Snooze, an A.M. Eatery",5000 Westheimer Rd Suite 120,Houston,TX,77056,4.3,485,2,10/24/20,0900
-42,HS Green Fresh Food Kitchen,5092 Richmond Ave,Houston,TX,77056,4.3,472,2,10/24/20,0900
-20,Songkran Thai Kitchen,1101 Uptown Park Blvd #8,Houston,TX,77056,4.3,455,2,10/24/20,0900
-10,Etoile Cuisine Et Bar,1101-11 Uptown Park Blvd,Houston,TX,77056,4.7,446,3,10/24/20,0900
-26,La Table Houston,1800 Post Oak Blvd #6110,Houston,TX,77056,4.6,438,3,10/24/20,0900
-30,Flower Child,1101 Uptown Park Boulevard #C-6,Houston,TX,77056,4.6,424,2,10/24/20,0900
-15,Blanco Tacos + Tequila,5115 Westheimer Rd Suite C-2520,Houston,TX,77056,4.4,410,NA,,
-34,Post Oak Grill,1415 S Post Oak Ln,Houston,TX,77056,4.3,396,3,10/24/20,0900
-8,Alexander the Great,3055 Sage Rd,Houston,TX,77056,4.5,383,2,10/24/20,0900
-16,Sozo Sushi Lounge,1700 Post Oak Blvd #250,Houston,TX,77056,4.4,369,2,10/24/20,0900
-25,The Annie Café & Bar,1800 Post Oak Blvd Suite 6170,Houston,TX,77056,4.5,368,3,10/24/20,0900
-50,Ekko's Greek American Deli,5216 Richmond Ave,Houston,TX,77056,4.6,331,1,10/24/20,0900
-58,The Original Ninfa's Uptown,1700 Post Oak Blvd #1-190,Houston,TX,77056,4.2,325,NA,,
-33,Sage 400,2800 Sage Rd,Houston,TX,77056,4.4,311,3,10/24/20,0900
-31,Uptown Sushi,1131-14 Uptown Park Blvd,Houston,TX,77056,4.4,308,2,10/24/20,0900
-41,Corelli's Italian Cafe,5640 Westheimer Rd,Houston,TX,77056,4.2,307,2,10/24/20,0900
-55,51fifteen Cuisine & Cocktails,5175 Westheimer Rd,Houston,TX,77056,4.3,290,3,10/24/20,0900
-49,White Oak Kitchen + Drinks,5011 Westheimer Rd,Houston,TX,77056,4.2,261,2,10/24/20,0900
-23,Cafe Ginger Uptown,2200 Post Oak Blvd #140,Houston,TX,77056,4.3,255,2,10/24/20,0900
-39,Bazille,5192 Hidalgo St,Houston,TX,77056,4.4,211,NA,,
-27,Piatto Ristorante,4925 W Alabama St,Houston,TX,77056,4.4,198,2,10/24/20,0900
-44,Burganic Hub,2721 Chimney Rock Rd,Houston,TX,77056,4.6,172,NA,,
-35,Merchant,1707 Post Oak Blvd,Houston,TX,77056,4.4,162,1,10/24/20,0900
-32,KENZ MEDITERRANEAN CUISINE,5000 Westheimer Rd #602a,Houston,TX,77056,4.8,158,NA,,
-38,In D Kitchen,2301 Yorktown Street Suite #102,Houston,TX,77056,4.6,156,1,10/24/20,0900
-17,Musaafer,5115 Westheimer Rd Suite C-3500,Houston,TX,77056,4.6,139,NA,,
-12,Merus Grill by J. Alexander's,1180-1 Uptown Park Blvd,Houston,TX,77056,4.8,93,NA,,
-40,Charleys Philly Steaks,5085 Westheimer Rd Ste 1360,Houston,TX,77056,4.6,90,1,10/24/20,0900
+33,Grand Lux Cafe,5000 Westheimer Rd,Houston,TX,77056,4.2,2882,2,10/25/20,1200
+43,The Cheesecake Factory,5015 Westheimer Rd,Houston,TX,77056,4.1,2682,2,10/25/20,1200
+8,Maggiano's Little Italy,2019 Post Oak Blvd,Houston,TX,77056,4.5,2654,2,10/25/20,1200
+1,North Italia,1700 Post Oak Blvd Ste 190,Houston,TX,77056,4.6,2193,2,10/25/20,1200
+2,Caracol Restaurant,2200 Post Oak Blvd #160,Houston,TX,77056,4.6,2118,3,10/25/20,1200
+29,Kenny & Ziggy's New York Delicatessen,2327 Post Oak Blvd,Houston,TX,77056,4.6,1952,2,10/25/20,1200
+57,Whataburger,2820 Chimney Rock Rd,Houston,TX,77056,4.0,1754,1,10/25/20,1200
+14,Bubba's Texas Burger Shack,5230 Westpark Dr,Houston,TX,77056,4.6,1699,1,10/25/20,1200
+7,Moxie's,5000 Westheimer Rd,Houston,TX,77056,4.2,1386,2,10/25/20,1200
+37,Dimassi's Mediterranean Buffet,5160 Richmond Ave,Houston,TX,77056,4.4,1273,2,10/25/20,1200
+20,True Food Kitchen,1700 Post Oak Blvd #180,Houston,TX,77056,4.5,1205,2,10/25/20,1200
+11,Peli Peli South African Kitchen - Galleria,5085 Westheimer Rd B2515,Houston,TX,77056,4.5,1202,3,10/25/20,1200
+48,La Tapatia Mexican Cafe Galería,5591 Richmond Ave,Houston,TX,77056,4.1,1051,1,10/25/20,1200
+40,Shake Shack,5015 Westheimer Rd Space #A2411,Houston,TX,77056,4.3,936,2,10/25/20,1200
+32,McCormick & Schmick's Seafood & Steaks,1151 Uptown Park Blvd Suite 01,Houston,TX,77056,4.3,905,3,10/25/20,1200
+41,MOD Pizza,5174 Richmond Ave,Houston,TX,77056,4.5,842,1,10/25/20,1200
+51,Chipotle Mexican Grill,5176 Richmond Ave,Houston,TX,77056,4.1,839,1,10/25/20,1200
+12,Roostar,5551 Richmond Ave,Houston,TX,77056,4.7,809,NA,,
+4,Adair Kitchen,5161 San Felipe St,Houston,TX,77056,4.3,781,2,10/25/20,1200
+25,Argentina Cafe,3055 Sage Rd #130,Houston,TX,77056,4.4,718,2,10/25/20,1200
+55,Luby's,1743 Post Oak Blvd,Houston,TX,77056,4.2,698,2,10/25/20,1200
+16,FIG & OLIVE Tasting Kitchen & Bar,5115 Westheimer Rd Suite C2500,Houston,TX,77056,4.3,550,3,10/25/20,1200
+36,"Snooze, an A.M. Eatery",5000 Westheimer Rd Suite 120,Houston,TX,77056,4.3,485,2,10/25/20,1200
+15,Songkran Thai Kitchen,1101 Uptown Park Blvd #8,Houston,TX,77056,4.3,456,2,10/25/20,1200
+5,Etoile Cuisine Et Bar,1101-11 Uptown Park Blvd,Houston,TX,77056,4.7,445,3,10/25/20,1200
+18,La Table Houston,1800 Post Oak Blvd #6110,Houston,TX,77056,4.6,438,3,10/25/20,1200
+54,Daily Grill,5085 Westheimer Rd,Houston,TX,77056,4.2,428,2,10/25/20,1200
+21,Flower Child,1101 Uptown Park Boulevard #C-6,Houston,TX,77056,4.6,424,2,10/25/20,1200
+9,Blanco Tacos + Tequila,5115 Westheimer Rd Suite C-2520,Houston,TX,77056,4.4,407,NA,,
+46,Smashburger,5381 Westheimer Rd,Houston,TX,77056,4.1,398,2,10/25/20,1200
+53,Jenni's Noodle House,2027 Post Oak Blvd,Houston,TX,77056,4.0,370,2,10/25/20,1200
+19,The Annie Café & Bar,1800 Post Oak Blvd Suite 6170,Houston,TX,77056,4.5,370,3,10/25/20,1200
+10,Sozo Sushi Lounge,1700 Post Oak Blvd #250,Houston,TX,77056,4.4,368,2,10/25/20,1200
+50,la Madeleine French Bakery & Cafe Houston Galleria,5015 Westheimer Rd Suite 1420,Houston,TX,77056,4.1,351,2,10/25/20,1200
+31,Ekko's Greek American Deli,5216 Richmond Ave,Houston,TX,77056,4.6,331,1,10/25/20,1200
+38,The Original Ninfa's Uptown,1700 Post Oak Blvd #1-190,Houston,TX,77056,4.2,323,NA,,
+23,Sage 400,2800 Sage Rd,Houston,TX,77056,4.4,311,3,10/25/20,1200
+56,Five Guys,1715 Post Oak Blvd,Houston,TX,77056,4.2,309,2,10/25/20,1200
+35,51fifteen Cuisine & Cocktails,5175 Westheimer Rd,Houston,TX,77056,4.3,290,3,10/25/20,1200
+30,White Oak Kitchen + Drinks,5011 Westheimer Rd,Houston,TX,77056,4.2,261,2,10/25/20,1200
+17,Cafe Ginger Uptown,2200 Post Oak Blvd #140,Houston,TX,77056,4.3,255,2,10/25/20,1200
+47,Chipotle Mexican Grill,5015 Westheimer Rd Ste A1285,Houston,TX,77056,4.1,241,1,10/25/20,1200
+58,Kolache Factory,2715 Chimney Rock Rd,Houston,TX,77056,4.2,231,1,10/25/20,1200
+49,Sultan Pepper ( HALAL ),5015 Westheimer Rd,Houston,TX,77056,4.3,210,NA,,
+59,Subway,1605 S Post Oak Ln,Houston,TX,77056,4.0,170,1,10/25/20,1200
+24,Merchant,1707 Post Oak Blvd,Houston,TX,77056,4.4,162,1,10/25/20,1200
+22,KENZ MEDITERRANEAN CUISINE,5000 Westheimer Rd #602a,Houston,TX,77056,4.8,158,NA,,
+44,Los Tios,5161 San Felipe St Ste 100,Houston,TX,77056,4.1,148,2,10/25/20,1200
+13,Musaafer,5115 Westheimer Rd Suite C-3500,Houston,TX,77056,4.6,138,NA,,
+42,7 Star Asian Cafe,2717 Chimney Rock Rd,Houston,TX,77056,4.0,93,NA,,
+6,Merus Grill by J. Alexander's,1180-1 Uptown Park Blvd,Houston,TX,77056,4.8,93,NA,,
+27,Charleys Philly Steaks,5085 Westheimer Rd Ste 1360,Houston,TX,77056,4.6,90,1,10/25/20,1200
+39,Raising Cane's Chicken Fingers,5015 Westheimer Rd,Houston,TX,77056,4.4,78,1,10/25/20,1200
 0,2840 Cafe at Dukessa,2840 Chimney Rock Rd Suite 1A,Houston,TX,77056,4.9,69,NA,,
-4,Yummy's Bite,2829 Chimney Rock Rd,Houston,TX,77056,4.9,57,NA,,
-54,Pokeworks,1609 S Post Oak Ln,Houston,TX,77056,4.6,29,2,10/24/20,0900
-37,Taste Sichuan Bistro,5000 Westheimer Rd #624,Houston,TX,77056,4.6,28,NA,,
-1,Murphy's Deli,2800 Post Oak Blvd,Houston,TX,77056,5.0,15,1,10/24/20,0900
-45,Pepper Twins,5161 San Felipe St #300,Houston,TX,77056,4.5,15,NA,,
+3,Yummy's Bite,2829 Chimney Rock Rd,Houston,TX,77056,4.9,57,NA,,
+45,Midwest Coney Connection,2829 Chimney Rock Rd,Houston,TX,77056,4.8,38,NA,,
+52,CC's Cajun Seafood,5015 Westheimer Rd a1452,Houston,TX,77056,4.1,36,NA,,
+34,Pokeworks,1609 S Post Oak Ln,Houston,TX,77056,4.6,29,2,10/25/20,1200
+26,Taste Sichuan Bistro,5000 Westheimer Rd #624,Houston,TX,77056,4.6,28,NA,,
+28,Pepper Twins,5161 San Felipe St #300,Houston,TX,77056,4.5,15,NA,,
