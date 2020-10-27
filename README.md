@@ -22,7 +22,7 @@ Final Report October 27, 2020
 2) Each team member was assigned portions of the ETL Project once the proposal was drafted. Web Scraping was done by one team member, another performed 
     the Google Maps API extraction, and another created a Flask application. Jupyter notebooks were created by each team member and upload to the team’s GitHub repository to
     capture individual contributions to the project.  However, one final Jupyter Notebook was created to combine the team's contributions. Combining the individual codes 
-    allowed us create a more efficiently working code. The data was later transformed and load using Zoom meetings.
+    allowed us create a more efficiently working code. The data was later transformed and loaded using Zoom meetings.
 3) Transformation of the data was completed as group. The team reviewed data to clean-up any redundancies and to ensure that missing data would not stop the code 
     from running successfully.
 4) The type of final database selected best displayed the data and supported our narrative as to how restaurant ratings could be presented as an aggregate.  A Flask 
