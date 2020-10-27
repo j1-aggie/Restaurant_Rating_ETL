@@ -28,5 +28,6 @@ Final Report October 27, 2020
 4) The type of final database selected best displayed the data and supported our narrative as to how restaurant ratings could be presented as an aggregate.  A Flask 
     application created by the team allowed our database to be queried and return results in a JSON format.
 5) The schema of the tables in the final database was created using pgAdmin4 and SQL to display the data as a relational data set.
-6) We envision the database being used to rate restaurants in an aggregate manner and not by one customer’s rating.
+6) In Summary, we envision the database being used to rate restaurants in an aggregate manner. The aggregate, yelp, and google restaurant ratings show the same top 4 restaurants
+    (see image folder). However, once you compare aggregate ratings beyond the top 4 restaurants to Google and Yelp ratings, we see different ranking of restaurants.
 
